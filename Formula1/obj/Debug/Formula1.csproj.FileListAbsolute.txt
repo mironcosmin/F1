@@ -1,0 +1,15 @@
+D:\ProiectBD\Formula1\Formula1\bin\Debug\Formula1.exe.config
+D:\ProiectBD\Formula1\Formula1\bin\Debug\Formula1.exe
+D:\ProiectBD\Formula1\Formula1\bin\Debug\Formula1.pdb
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.csprojAssemblyReference.cache
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.Autentificare.resources
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.Properties.Resources.resources
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.csproj.GenerateResource.cache
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.csproj.CoreCompileInputs.cache
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.exe
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.pdb
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.Meniu.resources
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.Pilot.resources
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.Circuit.resources
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.InterogariSimple.resources
+D:\ProiectBD\Formula1\Formula1\obj\Debug\Formula1.InterogariComplexe.resources
